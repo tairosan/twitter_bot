@@ -6,16 +6,16 @@
 mb_language("Japanese");
 
 //ボットのユーザー名
-$user = "yarisugi_manner";
+$user = "ここに入力";
 
 //Consumer key
-$consumer_key = "oQlmaHh6A3MJEpsq2lUQ";
+$consumer_key = "ここに入力";
 //Consumer secret
-$consumer_secret = "MfeJdwB02V5c7ecjGjOYGEURfYdkyZelPaimkbJY";
+$consumer_secret = "ここに入力";
 //Access Token
-$access_token = "329569563-TtObEv3d4TnlE8vzljnxW1EasUKfwVha58gh8qc2";
+$access_token = "ここに入力";
 //Access Token Secret
-$access_token_secret = "WKEZ6GHH5kj1p1RqLK232su4tOUQKgdEbWnGZOldY";
+$access_token_secret = "ここに入力";
 
 
 //デバッグモードのON/OFF(1:ON 0:OFF)
